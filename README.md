@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-### Hey There :wave: I am an Offensive Security Researcher & Infosec Trainer
+### Hey There :wave: I am an Offensive Security Researcher, Infosec Trainer, Gamer & Doodle artist.
 <img src="https://github.com/Pratyaksh06/PIC/blob/main/black%20bg.png" width="18%"/>
 
 - 🔭 I’m currently working on ...**Read Teaming, Web Apllication & Network Penetration Testing**
