@@ -1,4 +1,4 @@
-### Hello there General Kenobi 👋
+### Hello there -General Kenobi 
 
 <!--
 **Pratyaksh06/Pratyaksh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
