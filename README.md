@@ -5,7 +5,8 @@
 -->
 
 ### Hey There :wave: I am an Offensive Security Researcher, Infosec Trainer, Gamer & Doodle artist.
-<img src="https://github.com/Pratyaksh06/PIC/blob/main/black%20bg.png" width="18%"/>
+
+<img src="https://github.com/Pratyaksh06/PIC/blob/main/black%20bg.png" width="28%" float="right"/>
 
 - 🔭 I’m currently working on ...**Read Teaming, Web Apllication & Network Penetration Testing**
 - 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
