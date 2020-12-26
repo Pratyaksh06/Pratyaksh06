@@ -7,7 +7,7 @@
 
 ### I am an Offensive Security Researcher, Infosec Trainer, Gamer & Doodle artist.
 
-<img src="https://github.com/Pratyaksh06/PIC/blob/main/transparent.png" width="28%" float="right"/>
+<img src="https://github.com/Pratyaksh06/PIC/blob/main/transparent.png" width="18%" float="right"/>
 
 - 🔭 I’m currently working on ...**Read Teaming, Web Apllication & Network Penetration Testing**
 - 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
