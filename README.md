@@ -9,7 +9,7 @@
 
 <img src="https://github.com/Pratyaksh06/PIC/blob/main/transparent.png" width="18%" float="right"/>
 
-- 🔭 I’m currently working on ...**Read Teaming, Web Apllication & Network Penetration Testing**
+- 🔭 I’m currently working on ...**Red Teaming, Web Apllication & Network Penetration Testing**
 - 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
 - 👯 I’m looking to collaborate on ...**WAPT, Mentoring/Speaker, Community Partner as @Seconset**
 - 🤔 I’m looking for help with ...**Web Application Penetration Testing**
