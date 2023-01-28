@@ -9,11 +9,11 @@
 
 <img src="https://github.com/Pratyaksh06/PIC/blob/main/transparent.png" width="18%" float="right"/>
 
-- 🔭 I’m currently working on ...**Red Teaming, Web Apllication & Network Penetration Testing**
-- 🌱 I’m currently learning ...**Bash Scripting, Python Scripting, SOCs, Blue Teaming**
-- 👯 I’m looking to collaborate on ...**WAPT, Mentoring/Speaker, Community Partner as @Seconset**
-- 🤔 I’m looking for help with ...**Web Application Penetration Testing**
+- 🔭 I’m currently working on ...**Red Teaming, Web App, API, Android Static & Network Penetration Testing**
+- 🌱 I’m currently learning ...**Android PT, Code Review & Cloud PT**
+- 👯 I’m looking to collaborate on ...**Research, Tools, Bug Bounty & Mentoring/Speaker**
+- 🤔 I’m looking for help with ...**Bug Bounty Automation**
 - 💬 Ask me about ...**My day, Work, DC & Hacking**
 - 📫 How to reach me: ...**fr3qu3n533@gmail.com**
 - 😄 Pronouns: ...**he/his/him**
-- ⚡ Qoute: ...**aren't we all here to make a difference?**
+- ⚡ Qoute: ...**Aren't we all here to make a difference?**
